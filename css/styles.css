@@ -1,0 +1,68 @@
+body {
+  padding: 5%;
+}
+
+h1 {
+  text-align: center;
+  background-color: white;
+  padding: 15px;
+}
+
+label{
+  background-color: white;
+  width: 100px;
+}
+
+.btnBox {
+  height: 50px;
+  margin: 30px;
+  margin-bottom: 100px;
+  text-align: center;
+}
+
+.btn {
+  font-size: 48px;
+  background-color: white;
+}
+
+#output {
+  background-color: white;
+}
+
+.triangleBoom1 {
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin: auto;
+}
+
+.triangleBoom2 {
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin: auto;
+}
+
+.triangleBoom3 {
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin: auto;
+}
+
+.centerText {
+  height: 75px;
+  width: auto;
+  text-align: center;
+  font-size: 72px;
+}
+
+#notTriangle {
+  display: none;
+  /* height: 200px;
+  width: 200px; */
+}
+
+.row {
+  margin-top: 30px;
+}
